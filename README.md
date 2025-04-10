@@ -1,6 +1,6 @@
 ![Header](https://your-image-url.com/header.png)
 
-## Hello, I'm John Doe 👋
+<!-- ## Hello, I'm John Doe 👋
 
 I am a software engineer with a passion for building scalable and efficient solutions. My focus lies in creating robust, high-quality code that drives successful projects. With a strong foundation in full-stack development, I am committed to continuous learning and embracing new challenges.
 
@@ -40,3 +40,72 @@ I am a software engineer with a passion for building scalable and efficient solu
   <a href="https://linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:johndoe@example.com"><img src="https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail"></a>
 </p>
+
+-->
+
+# 👋 Hi, I'm Abdul Shafe Akhlaqi
+
+🎯 Junior Web Developer | Based in Frankfurt, Germany  
+💻 Passionate about building responsive and modern web applications  
+🌱 Currently learning React, Node.js & Full Stack Development at [DCI](https://digitalcareerinstitute.org/)  
+
+---
+
+## 🧠 About Me
+
+I'm a motivated **Junior Web Developer** with a background in **PHP/Laravel** and a growing skill set in **modern JavaScript technologies**.  
+My journey began with backend development in Afghanistan and continues today in Germany, where I'm deepening my knowledge in **React**, **Node.js**, and frontend design.
+
+I enjoy solving real-world problems through clean code and meaningful design.
+
+---
+
+## 🚀 Skills
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+</div>
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Sc. Software Engineering** – Khatam Al-Nabieen University (Kabul)  
+  _(Recognized in Germany by ZAB)_
+
+---
+
+## 📬 Let’s Connect!
+
+<p align="left">
+  <a href="mailto:shafeakhlaqi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulshafeakhlaqi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/abdulshafeakhlaqi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
+  </a>
+</p>
+
+---
+
+> "Code is a journey — not just syntax, but creativity and collaboration."
+
+
