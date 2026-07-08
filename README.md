@@ -90,7 +90,7 @@ Currently building **ShopSphere** — an E-Commerce platform with the MERN Stack
   <a href="https://github.com/abdulshafeakhlaqi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://github.com/abdulshafeakhlaqi/abdulshafeakhlaqi/blob/main/Abdul_Shafe_Akhlaqi_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
