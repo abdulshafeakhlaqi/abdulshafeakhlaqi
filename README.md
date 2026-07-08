@@ -48,11 +48,11 @@ Currently building **ShopSphere** — an E-Commerce platform with the MERN Stack
 
 ## 🌟 Featured Projects
 
-- **[ShopSphere](https://github.com/abdulshafeakhlaqi/shopsphere)** `In Progress`
+- **[Online Shop](https://github.com/abdulshafeakhlaqi/online-shop-mern)** 
   - Full-stack MERN e-commerce app with Stripe payments, JWT auth, and an admin dashboard.
   - Next: containerizing with Docker, deploying on AWS EC2/S3.
 
-- **[DevPortfolio](https://github.com/abdulshafeakhlaqi/devportfolio)**
+- **[DevPortfolio](https://github.com/abdulshafeakhlaqi/portfolio-react-tailwindcss)**
   - Personal portfolio built with Next.js, TypeScript & Tailwind — 100/100 Lighthouse score.
 
 - **Property Management System** `2019–2020`
