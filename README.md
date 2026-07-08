@@ -7,6 +7,7 @@
 🎯 **Full-Stack Web Developer** | Based in Frankfurt, Germany  
 💻 Building modern web applications with **MERN Stack & Laravel**  
 🌱 Currently expanding into **Cloud & DevOps with AWS** | Deutsch C1  
+🚀 Open to: Full-Stack Developer, Frontend Developer, Backend Developer
 
 ---
 
